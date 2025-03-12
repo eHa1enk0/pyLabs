@@ -32,5 +32,4 @@ def main():
     print(f"Factorial: {factorial(n)}")
     print(f"Prime Number: {prime_num(n)}")
 
-if __name__ == '__main__':
-    main()
+main()
