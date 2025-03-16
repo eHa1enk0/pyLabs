@@ -28,8 +28,8 @@ def prime_num(n):
 def main():
     n =  get_number()
 
-    print(f"Sum: {sum_numbers(n)}")
-    print(f"Factorial: {factorial(n)}")
-    print(f"Prime Number: {prime_num(n)}")
+    print(f"Сума: {sum_numbers(n)}")
+    print(f"Факторіал: {factorial(n)}")
+    print(f"Ціле число: {prime_num(n)}")
 
 main()
